@@ -20,9 +20,9 @@ REQUIREMENT ANALYSIS AND SPECIFICATION: Its purpose is to identify and document 
 PLANNING: The scope of the project is determined, resources and risks.
 DESIGN: It focuses on how the project will be done by creating the architecture of the system.
 IMPLEMENTATION: The actual code of the program is written according to the architecture of the design phase.
-        TESTING: The system is executed to find out errors and non-compliance.
-        DEPLOYMENT: The system is delivered to the users to ensure that it is operational.
-        MAINTENANCE: It is concerned with modifying the system to correct faults, improve performance and adapt to the changing environment.
+TESTING: The system is executed to find out errors and non-compliance.
+DEPLOYMENT: The system is delivered to the users to ensure that it is operational.
+MAINTENANCE: It is concerned with modifying the system to correct faults, improve performance and adapt to the changing environment.
 
 Agile vs. Waterfall Models:
 
